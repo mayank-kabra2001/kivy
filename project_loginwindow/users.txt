@@ -1,0 +1,2 @@
+ma@gmail.com;1234;ma;2019-11-10
+mau@gmai.com;1234;mayank;2019-11-15
